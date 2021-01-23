@@ -1,0 +1,15 @@
+/snap/clion/138/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lamp/Programming/lab4new
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/lamp/.hunter
+-- [hunter] [ Hunter-ID: 35fa55b | Toolchain-ID: 252be92 | Config-ID: b78b2c5 ]
+-- [hunter] BOOST_ROOT: /home/lamp/.hunter/_Base/35fa55b/252be92/b78b2c5/Install (ver.: 1.72.0-p1)
+-- [hunter] BOOST_ROOT: /home/lamp/.hunter/_Base/35fa55b/252be92/b78b2c5/Install (ver.: 1.72.0-p1)
+-- [hunter] BOOST_ROOT: /home/lamp/.hunter/_Base/35fa55b/252be92/b78b2c5/Install (ver.: 1.72.0-p1)
+-- Boost version: 1.72.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lamp/Programming/lab4new/cmake-build-debug

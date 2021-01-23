@@ -1,0 +1,1 @@
+/usr/bin/c++   -pedantic -Werror -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -g   CMakeFiles/scanner.dir/main.cpp.o  -o scanner  /home/lamp/.hunter/_Base/35fa55b/252be92/b78b2c5/Install/lib/libboost_filesystem-mt-d-x64.a 

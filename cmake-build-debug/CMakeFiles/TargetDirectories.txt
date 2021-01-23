@@ -1,0 +1,3 @@
+/home/lamp/Programming/lab4new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lamp/Programming/lab4new/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lamp/Programming/lab4new/cmake-build-debug/CMakeFiles/scanner.dir
